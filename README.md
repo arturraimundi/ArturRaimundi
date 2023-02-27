@@ -10,5 +10,6 @@ pegue seu café ☕
 <div>
 <a href="https://github.com/arturraimundi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturraimundi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://github.com/arturraimundi/github-readme-stats"/>
+
 </div>
+[![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturraimundi)](https://github.com/arturraimundi/github-readme-stats)

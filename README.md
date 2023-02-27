@@ -12,4 +12,4 @@ pegue seu café ☕
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturraimundi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
-[![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturraimundi)](https://github.com/arturraimundi/github-readme-stats)
+[![Artur GitHub stats](img src="https://github-readme-stats.vercel.app/api?username=arturraimundi")](https://github.com/arturraimundi/github-readme-stats)

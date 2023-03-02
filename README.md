@@ -9,8 +9,8 @@ pegue seu café ☕
 
 <div>
 <a href="https://github.com/arturraimundi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturraimundi&show_icons=true&theme=dracula&include_all_commits=true&      count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturraimundi&show_icons=true&theme=dracula&include_all_commits=true&      count_private=true"/>
 </div>
 <div>
-  <img src="https://user-images.githubusercontent.com/79712639/222525169-dfbea842-64cc-4d65-9fda-2bfcd989d80d.png">
+<img height="120em" src="https://user-images.githubusercontent.com/79712639/222525169-dfbea842-64cc-4d65-9fda-2bfcd989d80d.png">
 </div>
